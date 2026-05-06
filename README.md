@@ -1,2 +1,6 @@
 # odmw
-Expands the Okta dashboard width so it's no longer tiny
+
+Tampermonkey userscript to expand the width of the Okta dashboard since by default it's tiny in the middle
+
+## Installation
+Just install [Tampermonkey](https://www.tampermonkey.net/) and install the userscript
